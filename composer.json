@@ -2,14 +2,14 @@
         "name": "meerkat/meerkat-sf-fontawesome",
         "type": "kohana-module",
         "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
-        "homepage": "https://github.com/aberdnikov/meerkat-sf-fontawesome",
-		"license": "BSD-3-Clause",
+        "homepage": "http://fontawesome.io",
+		"license": "http://fontawesome.io/license",
         "keywords": ["kohana", "module", "meerkat", "static-files"],
         "authors": [
                 {
-                        "name": "Daniel Eden",
-                        "homepage": "http://daneden.me/",
-                        "role": "Designer"
+                        "name": "Dave Gandy",
+                        "homepage": "https://twitter.com/davegandy",
+                        "role": "Developer"
                 },		
                 {
                         "name": "Alexey Berdnikov",
