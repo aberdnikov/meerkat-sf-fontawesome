@@ -3,7 +3,7 @@
         "type": "kohana-module",
         "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
         "homepage": "http://fontawesome.io",
-		"license": "http://fontawesome.io/license",
+		"license": ["OFL-1.1", "MIT"],
         "keywords": ["kohana", "module", "meerkat", "static-files"],
         "authors": [
                 {
